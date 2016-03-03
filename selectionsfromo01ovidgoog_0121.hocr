@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectionsfromo01ovidgoog_0121.png"; bbox 0 0 3042 4475; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 500 756 2530 3498">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 500 756 2530 3498">
+     <span class='ocr_line' id='line_1_1' title="bbox 500 756 2530 3498; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 500 756 2530 3498; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1014 3580 2012 3631">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1014 3580 2012 3631">
+     <span class='ocr_line' id='line_1_2' title="bbox 1014 3580 2012 3631; baseline -0.001 -2"><span class='ocrx_word' id='word_1_2' title='bbox 1014 3582 1257 3631; x_wconf 92' lang='lat' dir='ltr'><strong>PLUTO</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1307 3582 1465 3630; x_wconf 87' lang='lat' dir='ltr'><strong>AND</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1516 3580 2012 3631; x_wconf 85' lang='lat' dir='ltr'><strong>PROSERPINA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1039 3698 1989 3764">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1039 3698 1989 3764">
+     <span class='ocr_line' id='line_1_3' title="bbox 1039 3698 1989 3764; baseline 0 -18"><span class='ocrx_word' id='word_1_5' title='bbox 1039 3699 1199 3747; x_wconf 89' lang='lat' dir='ltr'>From</span> <span class='ocrx_word' id='word_1_6' title='bbox 1238 3715 1271 3747; x_wconf 88' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_7' title='bbox 1308 3698 1568 3762; x_wconf 85' lang='lat' dir='ltr'>painting</span> <span class='ocrx_word' id='word_1_8' title='bbox 1606 3703 1677 3764; x_wconf 76' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1716 3698 1989 3748; x_wconf 87' lang='lat' dir='ltr'>Schobelt.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

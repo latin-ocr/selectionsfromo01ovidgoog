@@ -1,0 +1,47 @@
+PROSODY
+
+Example ι
+
+Nec procul Ι asudlnmt ΙΙ tellluris Ι margine Ι sommae.
+Met. X, 55.
+
+Ovid uses only two meters: the Dactylic Hexameter
+and the Dactylic Pentameter.
+
+The Dactylic Hexarneter is a verse consisting oi six
+feet (ἕξ μέτρα). Of these the first four are either dactyls
+ΙΔ υυ), or their metrical equivalents, spondees (ι -); the
+
+fifth ioot is regularly a dactyl‚ but occasionally a· spondee ; ¹
+
+the sixth foot is either a spondee or a trochee (ι ν). When
+there is a spondee in the fifth font, the verse is called
+spondaic. Poets nse spondaic lines when, in order to give
+a better representation ol the action or state described, they
+want a verse with a specially slow movement. For a
+spondee, consisting as it does of two long syllables, is slower
+than a dactyl with its one long and two shorts. To a large
+extent this consideration determines also the proportion ot'
+dactyls and spondees in the first four feet of the verse.
+
+The principal caesura generally occurs after the thesis
+or in the arsis of the third foot. Not infrequently, however,
+it is found in the fourth loot, in which case there is generally
+a subordinate caesura in the second font.
+
+The scheme oi the dactylic hexameter is as follows:
+
+--υυΙ--υνΙ--υψΙ··κΛιΙ-ΙυυΙΙ-ἱΕ
+
+Examples:
+
+Iamque‘irtt Ι ln tbltis ΙΙ ερᾰτΙεῖιτῡε Ι hilmlnl Ι terras:
+sed trmnlrt, ΙΙ ne Ι rorte salcer Ι tot ab Ι ignrbos Ι aether
+conclpdlret flimlmis, ΙΙ ΙόιιΙςῡεῳιῗίῐΙάἒεοέῐέὶ Ι axis,
+esse qublqfftn saltis ΙΙ rdmllniscltilr Ι , ἱᾱὶὅῐέ Ι ῑέωρῠε,
+quo mire Ι , qno icllh'is, ΙΙ οόῐΙῐὲρῖᾰφιέ Ι regii Ι caeli
+ardeat Ι , ὀὶ ωῖιῃΙάῑ ΙΙ molles bpdlrosli laboret.
+Met. I, 253-258.
+
+ 
+

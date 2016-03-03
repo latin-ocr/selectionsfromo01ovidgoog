@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectionsfromo01ovidgoog_0109.png"; bbox 0 0 3042 4475; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 336 540 2474 3834">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 336 540 2474 3834">
+     <span class='ocr_line' id='line_1_1' title="bbox 336 540 2474 3834; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 336 540 2474 3834; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 614 3915 2200 3969">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 614 3915 2200 3969">
+     <span class='ocr_line' id='line_1_2' title="bbox 614 3915 2200 3969; baseline -0.002 0"><span class='ocrx_word' id='word_1_2' title='bbox 614 3915 961 3969; x_wconf 85' lang='lat' dir='ltr'>PERSEUS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1014 3915 1211 3963; x_wconf 88' lang='lat' dir='ltr'>WITH</span> <span class='ocrx_word' id='word_1_4' title='bbox 1266 3915 1421 3963; x_wconf 87' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1475 3916 1685 3965; x_wconf 86' lang='lat' dir='ltr'>HEAD</span> <span class='ocrx_word' id='word_1_6' title='bbox 1729 3917 1824 3965; x_wconf 90' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_7' title='bbox 1874 3918 2200 3966; x_wconf 82' lang='lat' dir='ltr'>MEDUSA.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 808 4032 2009 4095">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 808 4032 2009 4095">
+     <span class='ocr_line' id='line_1_3' title="bbox 808 4032 2009 4095; baseline 0.001 -13"><span class='ocrx_word' id='word_1_8' title='bbox 808 4034 975 4082; x_wconf 89' lang='lat' dir='ltr'>From</span> <span class='ocrx_word' id='word_1_9' title='bbox 1015 4048 1046 4079; x_wconf 81' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_10' title='bbox 1084 4043 1266 4081; x_wconf 85' lang='lat' dir='ltr'>statue</span> <span class='ocrx_word' id='word_1_11' title='bbox 1307 4035 1377 4095; x_wconf 91' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_12' title='bbox 1423 4032 1750 4082; x_wconf 86' lang='lat' dir='ltr'>Benvenuto</span> <span class='ocrx_word' id='word_1_13' title='bbox 1788 4035 2009 4084; x_wconf 83' lang='lat' dir='ltr'><strong>Cellini.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
